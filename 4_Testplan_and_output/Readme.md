@@ -1,4 +1,18 @@
 # Test Plan
+## Calculation
+Calculation (distance in cm) (H1)
+
+Sound velocity =   343.00 m/s = 34300 cm/s
+
+* The distance of Object (in cm) = \mathbf{\frac{Sound Velocity X TIMER}{2}}
+* 
+                               = \mathbf{\frac{34300 * TIMER}{2}}
+                               
+                               = \textbf{17150 * TIMER}
+
+
+                                               
+                                                    
 ## Obstacle Detection:
 ### How: Our implementation for this step requires multiple steps :
 * Step 1: Find a distance value between each pair of sensors. To test the distance
